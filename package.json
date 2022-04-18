@@ -1,0 +1,22 @@
+{
+  "name": "backend-challenge-f",
+  "version": "1.0.0",
+  "description": "Backend coding exercise for Fetch Rewards",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanmil/backend-challenge-f.git"
+  },
+  "author": "Ken Hanner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanmil/backend-challenge-f/issues"
+  },
+  "homepage": "https://github.com/khanmil/backend-challenge-f#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
